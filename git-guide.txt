@@ -1,0 +1,7 @@
+1. To download project into local system
+git clone "<git repository url>"
+ex-git clone https://github.com/shahjadealam/git-guide.git
+
+2. To change Commit message
+-> git commit --amend -m "New commit message"
+-> git push -f
