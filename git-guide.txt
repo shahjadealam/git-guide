@@ -6,7 +6,10 @@ $ git remote add origin https://github.com/shahjadealam/test.git : to add remote
 $ git remote -v : to check the status of remote repository is added.
 $ git push : to push the code to the remote repository.
 
+or
 
+first clone the remote repository on the local system
+then open gui and push the code.
 
 
 1. To download project into local system
