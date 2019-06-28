@@ -1,3 +1,14 @@
+$ git init  : first command to initialize .git file into the current local directory.
+$ git status : to check the current uncommit files is available in the local directory.
+$ git add-A  : to add all the files available in the current local directory.
+$ git commit -m"test commit" :  to commit code & add commit message.
+$ git remote add origin https://github.com/shahjadealam/test.git : to add remote repository with git.
+$ git remote -v : to check the status of remote repository is added.
+$ git push : to push the code to the remote repository.
+
+
+
+
 1. To download project into local system
 git clone "<git repository url>"
 ex-git clone https://github.com/shahjadealam/git-guide.git
